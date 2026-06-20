@@ -111,7 +111,7 @@ data-analyst-ai/
 
 ## 👤 Author
 
-**Uma Iruventyu**
+**Uma Iruventy**
 - GitHub: [@iruventyuma](https://github.com/iruventyuma)
 - Portfolio: [iruventyuma.github.io](https://iruventyuma.github.io)
 
